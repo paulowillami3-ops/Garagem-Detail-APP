@@ -297,7 +297,7 @@ const LandingScreen: React.FC<{ onStart: () => void; onAdmin: () => void }> = ({
       </button>
       <button onClick={onAdmin} className="flex w-full items-center justify-center gap-2 rounded-lg h-12 text-gray-500 dark:text-gray-400 hover:bg-black/5 dark:hover:bg-white/5 transition-colors">
         <span className="material-symbols-outlined text-[20px]">storefront</span>
-        <span className="text-sm font-semibold">Painel do Barbeiro</span>
+        <span className="text-sm font-semibold">Painel Administrativo</span>
       </button>
     </div>
   </div>
