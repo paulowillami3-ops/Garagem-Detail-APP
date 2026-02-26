@@ -30,7 +30,7 @@ export default defineConfig(({ mode }) => {
           name: 'Garagem Detail',
           short_name: 'Garagem Detail',
           description: 'Agende seu horário com estilo.',
-          theme_color: '#EAB308',
+          theme_color: '#2563eb',
           background_color: '#121212',
           display: 'standalone',
           icons: [
