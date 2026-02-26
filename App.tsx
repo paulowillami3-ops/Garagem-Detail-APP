@@ -283,7 +283,7 @@ const LandingScreen: React.FC<{ onStart: () => void; onAdmin: () => void }> = ({
       <div className="absolute inset-0 bg-center bg-cover bg-no-repeat" style={{ backgroundImage: 'url("https://lh3.googleusercontent.com/aida-public/AB6AXuAd9ZmeHOyg42x7v0k0qNhO9-cK785skXNL_S6do6DDC5G5lb-B1ftMgparS2gwUG7ooRV9_XnYkvC2WZZ3h6WU51kIeASA39uINq6la0Z2BqcF95tIMTnhUvI53fWECSvsvtVxppcZ1GOwUw6UWFvSqKuLladxkOuS4hVaIXBzMzlgig19A6E7vUZldSxux-DbJw8JvmeWvIeb5TG4wpmT6nQXz1DuxMGJqlWmMR7ZL7TvUrEyVCFEkLV0gpxfI_wLl3Y0FdU2ks-t")' }}></div>
       <div className="absolute inset-0 bg-gradient-to-t from-background-light dark:from-background-dark via-background-light/60 dark:via-background-dark/60 to-transparent"></div>
       <div className="absolute bottom-0 left-0 w-full p-8 pb-12 flex flex-col items-center justify-end h-full z-10">
-        <div className="mb-6 h-16 w-16 rounded-full bg-primary/20 backdrop-blur-sm flex items-center justify-center border border-primary/30 shadow-[0_0_30px_rgba(212,17,50,0.3)]">
+        <div className="mb-6 h-16 w-16 rounded-full bg-primary/20 backdrop-blur-sm flex items-center justify-center border border-primary/30 shadow-[0_0_30px_rgba(37,99,235,0.3)]">
           {/* <span className="material-symbols-outlined text-primary text-[32px]">content_cut</span> */}
           <img src="/logo.png" alt="Logo Garagem Detail" className="h-full w-full object-contain" />
         </div>
