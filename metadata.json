@@ -1,0 +1,7 @@
+{
+  "name": "Garagem Detail",
+  "description": "App de agendamento completo para Garagem Detail com painéis de cliente e barbeiro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
